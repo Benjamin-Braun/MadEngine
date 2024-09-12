@@ -1,0 +1,17 @@
+[ ] Basic Rendering
+    [ ] Window stuff
+    [ ] Draw Basic 2D Shapes
+    [ ] Draw Basic 3D Shapes
+    [ ] Draw Basic wavefront .obj files
+    [ ] Basic Textures
+[ ] Asset Management
+    [ ] Wavefront .obj files
+    [ ] Textures
+    [ ] Scenes (Environments)
+[ ] Console
+    [ ] Logging
+    [ ] Errors
+    [ ] Commands
+    [ ] (Web Socket)
+[ ] General
+    [ ] Error handling
