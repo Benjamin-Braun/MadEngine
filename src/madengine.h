@@ -17,4 +17,5 @@
 
 using namespace std;
 
+#include "console.h"
 #include "renderer.h"
