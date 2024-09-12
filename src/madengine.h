@@ -5,6 +5,8 @@
 #include <string>
 #include <vector>
 #include <stdlib.h>
+#include <chrono>
+#include <ctime>
 #ifdef __APPLE__
     #define GL_SILENCE_DEPRECATION
     #include <OpenGL/gl.h>
@@ -17,5 +19,6 @@
 
 using namespace std;
 
+#include "time.h"
 #include "console.h"
 #include "renderer.h"

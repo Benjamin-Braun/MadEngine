@@ -1,6 +1,6 @@
 #include "src/madengine.h"
 
 int main(int argc, char* argv[]){
-	Console::Print("Hello World!");
+	Console::Log("bruh");
 	return 0;
 }
